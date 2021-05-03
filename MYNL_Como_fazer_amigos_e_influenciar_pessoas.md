@@ -79,3 +79,75 @@ Seu sorriso é uma mensagem da sua boa vontade. Seu sorriso alegra a vidas de to
 *Princípio: Lembre-se que as pessoas consideram o própio nome o som mais agradável e mais importante de qualquer idioma. Portanto, lembre o nome das pessoas!*
 
 Devemos estar cientes da magia contido em um nome e percerber que esse único item é de propiedade da pessoa com quem estamos conversando. Não pertence a mais ninguém. o nome dá individualidade, singulariza a pessoa. A informação que transmitimos ou o pedido que fazemos assume uma importância especial quando pronunciamos o nome do indivíduo O nome faz toda a diferença quando lidamos com os outros, sejam eles garçons ou executivos experientes.
+
+**Cap 7 - Um jeito fácil de se tornar bom de papo**
+
+*Princípio: Seja um bom ouvinte. Encoraje os outros a falar de si.*
+
+A verdade é que ela não queria me ouvir falar sobre minhas viagens, só queria um ouvinte interassado que lhe permitisse inflar o própio ego e falar sobre os lugares que visitara. Esse comportamento é incomum ? Não muita gente é assim. 
+
+> "Poucos seres humanos estão imunes à lisoja implícita na profunda atenção." - Jack Woodford
+
+Muitas vezes, isso é tudo que deseja um cliente irritado, um funcionário ou um amigo magoado.
+
+Se quiser saber como fazer as pessoas se afastarem de você, rirem pelas suas costas ou demosntraremdesprezo , aqui está a receita: nunca ouça ninguém por muito tempo. Fale de si mesmo sem parar. Se tiver uma ieia enquanto o outro estiver falando, não o espere terminar a frase: interrompa sem medo.
+
+> "As pessoas que só pensamem sí são irremedialvemente mal-educadas, por mais instruídas que sejam elas não tem educação." - Nicholas Murray
+
+**Cap 8 - Como despertaro interesse das pessoas** 
+
+Princípio: Fale sobre assuntos que interessam ao outro.  
+
+Por nunca conseguir agendar uma reunião com o dono de um grande hotel, o Sr. Duvernoy decidiu descobrir o interessava este homem... o que o entusiasmava. 
+
+Ao conseguir consquistar-lo e marcamos um reunião, enumerei minhas ideias e qualificações para concretizá-las e expliquei como contribuiriam para seu sucesso pessoal e o sucessode seu negócio.
+
+Quando nos concentramosnos interesse do outro, o resultado é recompensador para ambas as partes.
+
+**Cap 9 - Como fazer as pessoas gostarem de você aà primeira vista**
+
+*Princípio: Faça o outro se sentir importante - e seja sincero.*
+
+O que posso admirar nesta pessoa com sinceridade ? Às vezes, essa pergunta é difícil de responder, sobretudo quando lidamos com desconhecidos. O mais profundo princípio da natureza humana é a ânsia de ser reconhecido. 
+
+Há milênios os filósofos vêm especulando sobre as regras dos relacionamentos humanos, e , de todas essas especulações desenvolveu-se apenas um preceito fundamental. Ele não é novo. Na verdade, é tão antigo quanto a própia história. Zoroastro o ensinava a seus seguidores na Pérsia 2500 anos atrás. Confúcio o pregava na China 2400 anos atrás. lao-Tsé, fundador do taoismo, o ensinava a seus discípulos no vale do Han. Buda pregava sobre o assunto à margem do sagrado rio Ganges 500 anos do nascimento de Cristo, e os livros sagraoos do do hinduísmo o ensinavam mil anos antes. **Jesus** promoveu os mesmos ensinamentos nas colinas pedregosas da Judeia há mais de 19 séculos e resumiu tudo em um pensamento, provavelmente a regra mais importante do mundo: ***"Fazei aos outros aquilo que quereis que vos façam".***
+
+A verdade nua e crua é que quase todas as pessoas que você conhece se sentem superiores a você de algum modo, e uma forma garantida de chegar ao coração delas é deixar que percebam, sutilmente, que você reconhece essa importância com sinceridade.
+
+Converse com as pessoas sobre elas mesmas, e elas o ouvirão durante horas.
+
+Esse é o poder do elogio sincero e de coração.
+
+**Cap 10 - É impossivel ganhar uma discussão**
+
+Princípio: 
+
+Como dizia o velho e sábio benjamin Franklin: "Quando você discute, se exaspera e contradiz os outros é possível obter uma vitória de vez em quando, mas será uma vitória vazia, pois você nunca conseguirá conquistar a boa vontade de seu opositor."
+
+Você pode estar coberto de razão enquanto defende seus argumentos mas seu esforço para mudar o modo de se pensar do outro provavelmente será tão inútil quandto se tivesse errado.. 
+
+Buda dizia: " O ódio nunca tem fim com mais ódio, apenas com amor". Da mesma forma, um equívoco nunca tem fim com uma discussão, apenas com o tato, a diplomacia a conciliação e um desejo sincero de enxergar o ponto de vista da outra pessoa. 
+
+> "Nenhum homem que decide se aperfeiçoar ao máximo pode perder tempo com disputas pessoais. Muito menos pode se dar ao luxo de encarar as consequências dessa atitude, entre elas a peversão de sua índole e a perda do autocontrole. QUando seus direitos forem iguais aos do outro faça grandes concessões; quando seu direito for maior qua a do outro, faça concessões menores. melhor sair da frente do cachorro do que ser mordido por ele. Nem matando o animal a mordida seria curada." - Abraham Lincoln
+
+Um artigo publicado na revista Bits and Pieces dá alguma sugestões para evitar que uma divergência se transforme em discussão: 
+
+**Acolha a divergência**. Lembre-se fo ditado: "*Quando dois sócios concordam o tempo todo, um dos dois não é necessário.*"
+
+**Desconfie da sua primeira impressão institiva.** Numa situação desagradável, nossa primeira reação natural é assumir uma postura defensiva. Cuidado. Mantenha a calma e observe sua primeira reação. Talvez ela seja que há de pior em você,  enão o que há de melhor.
+
+**Controle seu gênio.** Lembre-se de que é possível medir a grandeza de uma pessoa avaliando aquilo que a deixa zangada.
+
+**Ouça antes.** Dê a seus oponentes a oportunidade de falar. Deixem terminar o que têm a dizer. ****Não resista, não se defenda ne inicie uma discussão. Essas atitudes servem apenas para erguer barreriras. Tente construir pontes de entendimento, e não barreiras de desentendimento.
+
+**Procure pontos em comum.** Depois de ouvir seus oponentes, trate primeiro dos pontos e das áreas em que vocês concordam. 
+
+**Seja sincero.** Procure assumir seus erros. Peça desculpa  por eles. Isso ajudará a desarmar seus opnentes e a diminuir a postura defensiva.
+
+**Prometa que vai refletir sobre as ideias de seus oponentes e estudá-las com cuidado.**  E fale com sinceridade. Seus adversários podem ter razão. 
+
+**Agradeça sinceramente a seus oponentes pelo interesse demontrado.** Qualquer um que te devota tempo a discordar de você está interessado nas mesmas coisa que você. 
+
+**Adie a ação para permitir que os dois lados tenham tempo de refletir sobre o problema.** Reavalie se vale o preço de continuar essa disscussão. 
+
+> "*Quando um grita, o outro deve ouvir, porque, quando duas pessoas gritam, não há comunicação apenas barulho e vibrações ruins."*
