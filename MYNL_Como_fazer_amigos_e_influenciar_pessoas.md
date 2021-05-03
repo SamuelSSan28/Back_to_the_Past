@@ -120,7 +120,7 @@ Esse é o poder do elogio sincero e de coração.
 
 **Cap 10 - É impossivel ganhar uma discussão**
 
-Princípio: 
+*Princípio: A única forma de se dar bem numa discussão é evitando-a*
 
 Como dizia o velho e sábio benjamin Franklin: "Quando você discute, se exaspera e contradiz os outros é possível obter uma vitória de vez em quando, mas será uma vitória vazia, pois você nunca conseguirá conquistar a boa vontade de seu opositor."
 
