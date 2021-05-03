@@ -1,2 +1,2 @@
 # Back_to_the_Past
-Tutorias para o Samuel do futuro
+Tutoriais e resumos para o Samuel do futuro
