@@ -77,3 +77,38 @@ Se usamos o quantificador moderado +?, a expressão .+? fica satisfeita em captu
     res = re.match('<.+?>', html)
     res.group()
     '<h1>'
+    
+### Exercises:
+
+#### Exercise 1: Matching Characters
+
+ - Match:	abcdefg	To be completed
+ - Match;	abcde	To be completed
+ - Match:	abc
+
+ - Solution: <b> [\w]{1,} <b>
+  
+
+ #### Exercise 2: Matching Digits
+
+ - Match:	abc123xyz
+ - Match:	define "123"	
+ - Match:	var g = 123;
+
+ - Solution: <b> [\d]{1,3} <b>, <b> [^\D]{1,3} <b>
+  
+  
+  #### Exercise 4: Matching Only a, b, or c
+
+ - Match:	can	To be completed
+ - Match:	man	To be completed
+ - Match:	fan
+ - Skip	dan	To be completed
+ - Skip	ran	To be completed
+ - Skip	pan
+
+ - Solution: 
+      - You can use the expression [cmf]an] to match only 'can', 'man' and 'fan' without matching any other line. 
+      - You can also use the inverse expression [^drp]an] to match any three letter word ending with 'an' that does not start with 'd', 'r' or 'p'.} 
+  
+  
