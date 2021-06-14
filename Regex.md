@@ -86,25 +86,34 @@ Se usamos o quantificador moderado +?, a expressão .+? fica satisfeita em captu
  - Match;	abcde	To be completed
  - Match:	abc
 
- - Solution: <b> [\w]{1,} <b>
+ - Solution: [\w]{1,} 
+
+#### Exercise 2: Matching Digits
   
+ - Match:	cat.	 
+ - Match	896.	 
+ - Match	?=+.	   
+ - Skip	abc1;
 
- #### Exercise 2: Matching Digits
+ - Solution:  ...\.
+ 
 
+#### Exercise 2: Matching Any Character
+  
  - Match:	abc123xyz
  - Match:	define "123"	
  - Match:	var g = 123;
 
- - Solution: <b> [\d]{1,3} <b>, <b> [^\D]{1,3} <b>
+ - Solution:  [\d]{1,3}, [^\D]{1,3} 
   
   
-  #### Exercise 4: Matching Only a, b, or c
+#### Exercise 4: Matching Only a, b, or c
 
- - Match:	can	To be completed
- - Match:	man	To be completed
+ - Match:	can	
+ - Match:	man	
  - Match:	fan
- - Skip	dan	To be completed
- - Skip	ran	To be completed
+ - Skip	dan	
+ - Skip	ran	
  - Skip	pan
 
  - Solution: 
@@ -112,3 +121,140 @@ Se usamos o quantificador moderado +?, a expressão .+? fica satisfeita em captu
       - You can also use the inverse expression [^drp]an] to match any three letter word ending with 'an' that does not start with 'd', 'r' or 'p'.} 
   
   
+#### Exercise 4: Only the live animals (hog, dog, but not bog).
+
+ - Match	hog	
+ - Match	dog	
+ - Skip	bog
+
+ - Solution: [^b]og
+  
+  
+#### Exercise 5: Matching Character Ranges
+
+ - Match:	Ana	
+ - Match:	Bob	
+ - Match:	Cpc	
+ - Skip:	aax	
+ - Skip:	bby	
+ - Skip:  ccz
+ - Solution: [A-Z][a-z]{1,}
+
+
+#### Exercise 6: Matching Repeated Characters
+
+ - Match	wazzzzzup	
+ - Match	wazzzup	
+ - Skip	wazup
+ 
+ - Solution: z{2,5}
+
+
+#### Exercise 7: Matching Repeated Characters
+
+ - Match	wazzzzzup	
+ - Match	wazzzup	
+ - Skip	wazup
+ 
+ - Solution: z{2,5}
+
+
+#### Exercise 7: Matching Repeated Characters pt2
+
+ - Match: aaabcc	
+ - Match:	aabbbbc	
+ - Match:	aacc	
+ - Skip: a
+ 
+ - Solution: a{2,4b{0,4}{1,2} , aa+b*c+
+
+
+#### Exercise 8: Matching Optional Characters
+
+ - Match:	1 file found?	
+ - Match:	2 files found?	
+ - Match:	24 files found?	
+ - Skip:	No files found.
+ 
+ - Solution: \d+ files? found\?
+  
+  
+#### Exercise 9: Matching Whitespaces
+
+ - Match:	1.   abc
+ - Match:	2.	abc	
+ - Match:	3.           abc	
+ - Skip:	4.abc
+ 
+ - Solution: \d.\s+\w+
+
+
+#### Exercise 10: Matching Lines
+
+ - Match	Mission: successful	
+ - Skip	Last Mission: unsuccessful	
+ - Skip	Next Mission: successful upon capture of target
+ 
+ - Solution: ^Mission: successful$
+
+  
+#### Exercise 11: Matching Groups
+
+ - Capture:	file_record_transcript.pdf	(file_record_transcript)
+ - Capture	file_07241999.pdf	(file_07241999)	
+ - Skip	testfile_fake.pdf.tmp
+
+ - Solution: ^(file\w+)\.pdf$
+
+
+#### Exercise 11: Matching Groups
+
+ - Capture:	file_record_transcript.pdf	(file_record_transcript)
+ - Capture:	file_07241999.pdf	(file_07241999)	
+ - Skip:	testfile_fake.pdf.tmp
+ - Solution: ^(file\w+)\.pdf$
+
+
+#### Exercise 12: Matching Nested Groups
+
+ - Capture:	Jan 1987	(Jan 1987) (1987)	 
+ - Capture:	May 1969	(May 1969) (1969)	 
+ - Capture:	Aug 2011	(Aug 2011) (2011)
+ - Solution: ^(\w{1,3} (\d+))$
+
+
+#### Exercise 13: Matching Nested Groups
+
+ - Capture:	1280x720	(1280) (720)
+ - Capture:	1920x1600	(1920) (1600)
+ - Capture:	1024x768	(1024) (768)
+ - Solution: ^(\w{1,3} (\d+))$
+
+
+#### Exercise 13: Matching Nested Groups
+
+ - Capture:	1280x720	(1280) (720)
+ - Capture:	1920x1600	(1920) (1600)
+ - Capture:	1024x768	(1024) (768)
+ - Solution: ^(\w{1,3} (\d+))$
+
+
+#### Exercise 14: Matching Conditional Text
+
+ - Match:	I love cats	
+ - Match:	I love dogs	
+ - Skip:	I love logs
+ - Skip:	I love cogs
+ - Solution: I love (cats|dogs)
+
+
+#### Exercise 14: Matching Conditional Text
+
+ - Match:	I love cats	
+ - Match:	I love dogs	
+ - Skip:	I love logs
+ - Skip:	I love cogs
+ - Solution: I love (cats|dogs)
+
+
+### Lesson X: Infinity and beyond!
