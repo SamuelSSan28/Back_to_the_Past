@@ -62,23 +62,18 @@ Por default, todos os quantificadores são gulosos: tentam casar a maior quantid
 
 Para entender o que isso significa, considere que desejamos capturar o nome do primeiro tag (h1) no fragmento de HTML abaixo:
 
-´´´.py
-html = '<h1>Alan Turing: 100 anos</h1>'
-´``
+    html = '<h1>Alan Turing: 100 anos</h1>'
 
 Usando o quantificador guloso +, acabamos por capturar o elemento inteiro, e não apenas o tag:
 
-´``.py
-res = re.match('<.+>', html)
-res.group()
-'<h1>Alan Turing: 100 anos</h1>'
-´``
+    res = re.match('<.+>', html)
+    res.group()
+    '<h1>Alan Turing: 100 anos</h1>'
+
 O resultado acima ocorre porque o sinal > casa em duas posições no texto, e casando na segunda posição o curinga guloso .+ captura mais caracteres.
 
 Se usamos o quantificador moderado +?, a expressão .+? fica satisfeita em capturar apenas os caracteres até o primeiro casamento de >:
 
-´``.py
-res = re.match('<.+?>', html)
->>> res.group()
-'<h1>'
-´``
+    res = re.match('<.+?>', html)
+    res.group()
+    '<h1>'
